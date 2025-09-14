@@ -1,0 +1,6 @@
+---
+title: "Homework 1"
+author: "Mba Solomon Akachukwu."
+date: "2025-09-12"
+format: pdf
+---
