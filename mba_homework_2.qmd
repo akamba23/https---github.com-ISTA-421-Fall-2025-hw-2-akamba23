@@ -4,3 +4,20 @@ author: "Mba Solomon Akachukwu."
 date: "2025-09-12"
 format: pdf
 ---
+
+Question 1
+a. The sample size (number of observations; n) is extremely large, and the number of
+predictors (features; p) is small.
+
+ANSWER: The flexible statistical learning is probably better because it doesn't have a lot of features, along with the
+very large sample size. These would help combat overfitting.
+
+b. The number of predictors (p) is extremely large, and the number of observations (n) is
+small.
+
+ANSWER: The inflexible statistical learning is better because a lot of features and not many data would make
+it much easier for the data to overfit.
+
+c. The relationship between the predictors and response is highly non-linear.
+
+ANSWER:
